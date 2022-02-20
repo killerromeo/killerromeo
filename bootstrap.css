@@ -1,0 +1,65 @@
+*{
+	font-family: 'Oxygen', sans-serif;
+}
+a{
+	text-decoration: none;
+}
+#Lamborghini{
+	margin-top: 10px;
+	padding: 5px;
+}
+hr{
+	border: 10px solid black;
+}
+.cars{
+	padding: 5px;
+
+}
+.Lamborghini Urus{
+	padding: 5px;
+	margin-top: 5px;
+}
+.Lamborghini Huracán{
+	padding: 5px;
+	margin-top: 5px;
+
+}
+.Lamborghini Aventador{
+	padding: 1px;
+	margin-top: 5px;
+
+}
+#gallery{
+	padding: 10px;
+	margin-top: 10px;
+}
+#book{
+	margin-top: 20px;
+	padding: 5px;
+}
+footer{
+	background: black;
+	color: white;
+}
+ul{
+	list-style: none;
+}
+.footer-link{
+	color: red;
+}
+.footer:hover{
+	color: red;
+}
+.copy{
+	text-align: bottom;
+	display: inline;
+}
+img{
+	border: 10px solid blue;
+	border-radius: 10px;
+
+}
+#image{
+  margin-left: auto;
+  margin-right: auto;
+}
